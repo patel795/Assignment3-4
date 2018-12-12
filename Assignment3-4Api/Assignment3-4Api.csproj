@@ -308,6 +308,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\UserAccount\Login.cshtml" />
     <Content Include="Views\Invoicing\InvoiceForm.cshtml" />
+    <Content Include="Views\Invoicing\Recievables.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
